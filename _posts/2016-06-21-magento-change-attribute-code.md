@@ -3,7 +3,7 @@ layout: post
 title:  "Magento Change Attribute Code"
 date:   2016-06-21 14:38:03 +0200
 categories: magento attribute mysql
-published: false
+published: true
 ---
 Magento 2 created a way to test our applications on many levels.
 
