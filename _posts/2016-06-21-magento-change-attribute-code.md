@@ -5,9 +5,7 @@ date:   2016-06-21 14:38:03 +0200
 categories: magento attribute mysql
 published: true
 ---
-Magento 2 created a way to test our applications on many levels.
-
-It works as follows:
+How to change attribute code in Magento 1/2.
 
 {% highlight mysql %}
 UPDATE `eav_attribute`
