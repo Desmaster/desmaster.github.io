@@ -11,7 +11,7 @@ email: tdegroot96@gmail.com
 description: >
   Programming ideas, findings and examples. Mainly focussed on Magento 1 and 2.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tdgroot.github.io" # the base hostname & protocol for your site
+url: "https://blog.timpack.org" # the base hostname & protocol for your site
 twitter_username: TimonGreat
 github_username:  tdgroot
 
