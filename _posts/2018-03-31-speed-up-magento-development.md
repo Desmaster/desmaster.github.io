@@ -4,6 +4,8 @@ title:  "Speed up Magento development workflow"
 date:   2018-03-31 10:27:59 +0200
 categories: magento
 published: true
+redirect_from:
+  - /magento/2018/03/31/speed-up-magento-development.html
 ---
 There are some quick wins you can get with little effort, to speed up your Magento development workflow.
 
