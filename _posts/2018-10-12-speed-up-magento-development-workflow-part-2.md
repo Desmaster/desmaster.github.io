@@ -65,6 +65,13 @@ My configuration looks like this:
 
 ![file-watcher-run-configuration]({{ site.url }}/assets/file-watcher-run-configuration.png)
 
-Click on `OK` and restart your project. You'll see that the file watcher starts running (yay!):
+Click on `OK`.
+
+#### UPDATE (18 november 2018)
+Now we need to change a registry setting which allows us to use stdin in the cache-clean.js console. In your PhpStorm menu bar, go to `Help -> Find Action` and then type `Registry`. You have to find the registry key `nodejs.console.use.terminal` and make sure the box is checked. Click on close and we're done configuring the file watcher.
+
+![registry-nodejs-console-use-terminal]({{ site.url }}/assets/registry-nodejs-console-use-terminal.png)
+
+Restart your project and you'll see that the file watcher starts running (yay!):
 
 ![file-watcher-running-on-startup]({{ site.url }}/assets/file-watcher-running-on-startup.png)
