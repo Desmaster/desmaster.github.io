@@ -9,6 +9,11 @@ redirect_from:
 ---
 There are some quick wins you can get with little effort, to speed up your Magento development workflow.
 
+## Index
+- Part 1 (this post)
+- [Part 2]({{ site.url }}/speed-up-magento-development-workflow-part-2).
+- [Part 3]({{ site.url }}/speed-up-magento-development-workflow-part-3).
+
 ## Cache
 
 One quick win is enabling your cache.

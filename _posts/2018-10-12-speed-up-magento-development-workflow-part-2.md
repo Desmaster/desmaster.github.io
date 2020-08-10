@@ -6,7 +6,10 @@ categories: magento
 published: true
 ---
 We continue to get better at optimizing our development workflow, so here's part 2 of the "Speed up Magento development workflow" series.
-[You can find part 1 here]({{ site.url }}/speed-up-magento-development).
+## Index
+- [Part 1]({{ site.url }}/speed-up-magento-development).
+- Part 2 (this post)
+- [Part 3]({{ site.url }}/speed-up-magento-development-workflow-part-3).
 
 ## Cache
 
